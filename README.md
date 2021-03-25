@@ -1,10 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cammo1123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=cammo1123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa)](https://github.com/cammo1123/spotify-github-profile)
-
 <!--
 **cammo1123/cammo1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
